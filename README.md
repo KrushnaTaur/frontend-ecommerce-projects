@@ -6,7 +6,12 @@ This repository focuses on practicing **frontend development**, clean UI design,
 
 ---
 
+## 🚀 Live Demo
+🔗 https://shopsphere-krushnataur.vercel.app/
+
+---
+
 ## 🛠 Tech Stack
 - HTML5  
 - CSS3  
-- JavaScript
+- JavaScript (Vanilla)
