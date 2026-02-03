@@ -12,6 +12,13 @@ const projects = [
     image: "./assets/grocery-store.png",
     live: "./projects/02-grocery-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/02-grocery-store"
+  },
+  {
+    name: "Electronics Store",
+    description: "Electronics e-commerce website with filters, cart, and product comparison.",
+    image: "./assets/electronics-store.png",
+    live: "./projects/03-electronics-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/03-electronics-store"
   }
 ];
 
