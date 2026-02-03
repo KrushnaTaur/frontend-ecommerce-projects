@@ -19,6 +19,13 @@ const projects = [
     image: "./assets/electronics-store.png",
     live: "./projects/03-electronics-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/03-electronics-store"
+  },
+  {
+    name: "Book Store",
+    description: "Online book store with genre filter, search, sorting, and shopping cart functionality.",
+    image: "./assets/book-store.png",
+    live: "./projects/04-book-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/04-book-store"
   }
 ];
 
