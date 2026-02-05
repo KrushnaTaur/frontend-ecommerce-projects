@@ -33,7 +33,15 @@ const projects = [
     image: "./assets/footwear-store.png",
     live: "./projects/05-footwear-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/05-footwear-store"
+  },
+  {
+    name: "Furniture Store",
+    description: "Premium furniture showroom website with room-based browsing and catalog-style layout.",
+    image: "./assets/furniture-store.png",
+    live: "./projects/06-furniture-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/06-furniture-store"
   }
+
 ];
 
 const grid = document.getElementById("projectsGrid");
