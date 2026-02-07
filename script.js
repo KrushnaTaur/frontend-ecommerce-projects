@@ -40,6 +40,13 @@ const projects = [
     image: "./assets/furniture-store.png",
     live: "./projects/06-furniture-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/06-furniture-store"
+  },
+  {
+    name: "Plant Nursery Store",
+    description: "Calm, nature-inspired plant nursery website with care-based filtering and educational plant details.",
+    image: "./assets/plant-nursery-store.png",
+    live: "./projects/07-plant-nursery-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/07-plant-nursery-store"
   }
 
 ];
