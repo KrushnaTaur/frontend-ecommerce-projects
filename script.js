@@ -47,6 +47,13 @@ const projects = [
     image: "./assets/plant-nursery-store.png",
     live: "./projects/07-plant-nursery-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/07-plant-nursery-store"
+  },
+  {
+    name: "Sports Equipment Store",
+    description: "Bold sports gear ecommerce website with filters, cart, and energetic UI using online images.",
+    image: "./assets/sports-equipment-store.png",
+    live: "./projects/08-sports-equipment-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/08-sports-equipment-store"
   }
 
 ];
