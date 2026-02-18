@@ -54,6 +54,13 @@ const projects = [
     image: "./assets/sports-equipment-store.png",
     live: "./projects/08-sports-equipment-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/08-sports-equipment-store"
+  },
+  {
+    name: "Gift Shop",
+    description: "Cheerful gift store website with occasion-based browsing, filters, and shopping cart.",
+    image: "./assets/gift-shop.png",
+    live: "./projects/09-gift-shop/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/09-gift-shop"
   }
 
 ];
