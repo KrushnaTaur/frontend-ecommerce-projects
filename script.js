@@ -68,6 +68,13 @@ const projects = [
     image: "./assets/pharmacy-store.png",
     live: "./projects/10-pharmacy-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/10-pharmacy-store"
+  },
+  {
+    name: "Pet Supplies Store",
+    description: "Friendly pet products ecommerce website with pet-type filtering and warm UI design.",
+    image: "./assets/pet-supplies-store.png",
+    live: "./projects/11-pet-supplies-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/11-pet-supplies-store"
   }
 
 ];
