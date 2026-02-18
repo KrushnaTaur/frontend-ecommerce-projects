@@ -75,6 +75,13 @@ const projects = [
     image: "./assets/pet-supplies-store.png",
     live: "./projects/11-pet-supplies-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/11-pet-supplies-store"
+  },
+  {
+    name: "Mobile Store",
+    description: "Modern smartphone ecommerce website with brand filters and side-by-side phone comparison.",
+    image: "./assets/mobile-store.png",
+    live: "./projects/12-mobile-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/12-mobile-store"
   }
 
 ];
