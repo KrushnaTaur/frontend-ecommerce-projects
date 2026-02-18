@@ -61,6 +61,13 @@ const projects = [
     image: "./assets/gift-shop.png",
     live: "./projects/09-gift-shop/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/09-gift-shop"
+  },
+  {
+    name: "Pharmacy Store",
+    description: "Clean healthcare ecommerce website with prescription filtering and medical UI design.",
+    image: "./assets/pharmacy-store.png",
+    live: "./projects/10-pharmacy-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/10-pharmacy-store"
   }
 
 ];
