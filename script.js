@@ -96,6 +96,13 @@ const projects = [
     image: "./assets/jewelry-store.png",
     live: "./projects/14-jewelry-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/14-jewelry-store"
+  },
+  {
+    name: "Bakery Store",
+    description: "Warm bakery ecommerce website with category browsing, eggless filter, and cozy food UI.",
+    image: "./assets/bakery-store.png",
+    live: "./projects/15-bakery-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/15-bakery-store"
   }
 
 ];
