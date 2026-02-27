@@ -89,6 +89,13 @@ const projects = [
     image: "./assets/toy-store.png",
     live: "./projects/13-toy-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/13-toy-store"
+  },
+  {
+    name: "Jewelry Store",
+    description: "Luxury jewelry ecommerce website with elegant UI, material filtering, and premium design.",
+    image: "./assets/jewelry-store.png",
+    live: "./projects/14-jewelry-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/14-jewelry-store"
   }
 
 ];
