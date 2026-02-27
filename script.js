@@ -82,6 +82,13 @@ const projects = [
     image: "./assets/mobile-store.png",
     live: "./projects/12-mobile-store/index.html",
     code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/12-mobile-store"
+  },
+  {
+    name: "Toy Store",
+    description: "Playful toy shop website with age-based browsing, colorful UI, and shopping cart.",
+    image: "./assets/toy-store.png",
+    live: "./projects/13-toy-store/index.html",
+    code: "https://github.com/KrushnaTaur/frontend-ecommerce-projects/tree/main/projects/13-toy-store"
   }
 
 ];
